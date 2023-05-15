@@ -31,4 +31,6 @@
  - [] O projeto está publicado?
  - [x] Foi criado o arquivo README.md?
 
-
+---
+## Equipe
+- [Genivania Macedo ](https://github.com/Genivania)
